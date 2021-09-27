@@ -8,6 +8,7 @@ namespace Selenium2
         [TestMethod]
         public void TestMethod1()
         {
+            //Hello
         }
     }
 }
